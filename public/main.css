@@ -1,0 +1,7 @@
+select {
+  border-radius: 0;
+}
+
+#question-container {
+  visibility: hidden;
+}
